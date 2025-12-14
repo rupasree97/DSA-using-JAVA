@@ -1,19 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int candidate = 0;
-        int count = 0;
-
-        for(int num: nums){
-            if(count == 0){
-                candidate = num;
-            }
-
-            if(num == candidate){
-                count ++;
-            }else{
-                count--;
+        HashMap <Integer,Integer> map = new HashMap<>();
+        int majority = 0 ,ans = 0;
+        for(int n:nums)
+        {
+            map.put(n, 1+ map.getOrDefault(n,0));
+            if(map.get(n)>majority)
+            {
+                ans = n;
+               majority =  map.get(n);
             }
         }
-        return candidate;
+        return ans;
     }
 }
