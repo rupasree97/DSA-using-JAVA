@@ -38,28 +38,22 @@ class Solution {
             twos++;
 
         }
-        int idx = 0,j=0;
-        while(j<zeros)
+        int idx = 0;
+        while(zeros > 0)
         {
-            nums[idx] = 0;
-            idx++;
-            j++;
-
+        nums[idx++] = 0;
+        zeros--;
         }
-        j = 0;
-        while(j< ones)
-        {
-        nums[idx] = 1;
-        idx++;
-        j++;
-        }
-        j = 0;
-        while(j< twos)
-        {
-            nums[idx] =2;
-            idx++;
-            j++;
-        }
+       while(ones>0)
+       {
+       nums[idx++] = 1;
+       ones--;
+       }
+       while(twos>0)
+       {
+       nums[idx++] = 2;
+       twos--;
+       }
 
 
         
