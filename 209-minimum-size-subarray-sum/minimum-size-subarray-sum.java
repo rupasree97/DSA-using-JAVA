@@ -3,12 +3,12 @@ class Solution {
         int left = 0;
         int ans = Integer.MAX_VALUE;
         int sum = 0;
-        for(int i = 0; i<nums.length;i++)
+        for(int right = 0; right<nums.length;right++)
         {
-             sum+=nums[i];
+             sum+=nums[right];
              while(sum>=target)
              {
-                ans = Math.min(ans,i-left+1);
+                ans = Math.min(ans,right-left+1);
                 sum = sum -nums[left];
                 left++;
 
