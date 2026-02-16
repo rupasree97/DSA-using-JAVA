@@ -6,3 +6,15 @@ The repository will include different DSA concepts, coding problems, and Java so
 All code is written in Java and structured for clarity and easy understanding.
 
 This project is intended for personal learning, interview preparation, and consistent practice in Java-based DSA.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
