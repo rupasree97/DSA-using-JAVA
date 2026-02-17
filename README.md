@@ -17,4 +17,12 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
