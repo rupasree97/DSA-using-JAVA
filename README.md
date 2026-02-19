@@ -34,4 +34,9 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
+| [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
