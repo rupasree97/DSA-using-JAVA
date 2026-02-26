@@ -45,12 +45,14 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -72,4 +74,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
