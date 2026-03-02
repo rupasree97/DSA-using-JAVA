@@ -26,6 +26,8 @@ public class Solution {
             head = head.next;
             slow = slow.next;
         }
-      return head;  
+      return head; 
+    //slow and fast pointer
+
     }
 }
