@@ -100,4 +100,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
