@@ -91,6 +91,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -104,4 +105,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
