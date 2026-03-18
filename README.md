@@ -14,6 +14,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
