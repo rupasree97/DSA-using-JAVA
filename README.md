@@ -13,6 +13,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
@@ -88,6 +89,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
@@ -110,4 +112,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0155-min-stack) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
