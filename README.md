@@ -13,6 +13,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -121,4 +122,12 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
