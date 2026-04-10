@@ -49,6 +49,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
