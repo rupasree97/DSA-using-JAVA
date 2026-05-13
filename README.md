@@ -67,6 +67,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -144,4 +145,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
