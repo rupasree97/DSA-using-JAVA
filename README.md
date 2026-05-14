@@ -129,6 +129,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0178-rank-scores) |
 ## Design
 |  |
 | ------- |
