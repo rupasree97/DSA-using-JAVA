@@ -23,6 +23,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +96,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
