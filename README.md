@@ -46,6 +46,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
@@ -69,6 +70,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
@@ -95,6 +97,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -106,6 +109,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2784-check-if-array-is-good) |
