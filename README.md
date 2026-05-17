@@ -95,6 +95,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -128,6 +129,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -151,6 +153,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
