@@ -24,6 +24,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
@@ -67,6 +69,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
