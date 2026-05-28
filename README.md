@@ -67,6 +67,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
@@ -109,6 +110,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
