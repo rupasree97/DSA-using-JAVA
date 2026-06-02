@@ -27,6 +27,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +79,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2784-check-if-array-is-good](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
@@ -147,6 +150,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
@@ -176,6 +180,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
 | ------- |
