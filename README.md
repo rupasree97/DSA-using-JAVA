@@ -22,6 +22,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
@@ -254,4 +256,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
