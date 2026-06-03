@@ -52,6 +52,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
@@ -86,6 +87,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
@@ -249,6 +251,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
