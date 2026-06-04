@@ -19,6 +19,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0118-pascals-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -265,4 +267,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
