@@ -94,6 +94,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
@@ -187,6 +188,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
