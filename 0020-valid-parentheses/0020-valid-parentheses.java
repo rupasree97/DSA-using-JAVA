@@ -15,14 +15,14 @@ class Solution {
         return false;
        
        
-       if(s.charAt(i) == '}' && !p.isEmpty() )
+      else if(s.charAt(i) == '}' && !p.isEmpty() )
        {
         if(p.peek() == '{' )
            p.pop();
         else
         return false;
        }
-      if(s.charAt(i) == ']' && !p.isEmpty())
+     else  if(s.charAt(i) == ']' && !p.isEmpty())
        {
         if(p.peek() == '[')
            p.pop();
@@ -30,7 +30,7 @@ class Solution {
            return false;
        }
 
-       if(s.charAt(i) == ')' && !p.isEmpty())
+      else  if(s.charAt(i) == ')' && !p.isEmpty())
       {
         if(p.peek() == '(')
           p.pop();
