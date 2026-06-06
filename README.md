@@ -94,6 +94,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
@@ -127,6 +128,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
@@ -250,6 +252,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
