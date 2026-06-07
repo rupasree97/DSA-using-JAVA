@@ -18,6 +18,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -115,6 +116,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0397-integer-replacement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
