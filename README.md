@@ -90,6 +90,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -160,6 +161,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2574-left-and-right-sum-differences) |
@@ -195,6 +197,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Stack
 |  |
