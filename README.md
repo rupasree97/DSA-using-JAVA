@@ -65,6 +65,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -102,6 +103,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
@@ -177,6 +179,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
