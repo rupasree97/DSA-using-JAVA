@@ -2,8 +2,8 @@ class Solution {
     public boolean isPalindrome(String s) {
         int l = 0;
         int r = s.length()-1;
-         
-
+         if(s.isEmpty())
+          return false;
         while(l<r)
         {
           char first = s.charAt(l);
