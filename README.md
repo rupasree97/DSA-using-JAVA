@@ -106,6 +106,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
