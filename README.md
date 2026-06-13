@@ -124,6 +124,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3794-reverse-string-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
 ## Bit Manipulation
 |  |
@@ -187,6 +188,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +217,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
