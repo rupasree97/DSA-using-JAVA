@@ -83,6 +83,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
@@ -107,6 +108,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
@@ -277,6 +279,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
