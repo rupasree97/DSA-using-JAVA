@@ -179,6 +179,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1306-jump-game-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -302,6 +303,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0209-minimum-size-subarray-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2574-left-and-right-sum-differences) |
 ## Depth-First Search
 |  |
