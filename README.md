@@ -116,6 +116,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0344-reverse-string) |
@@ -146,10 +147,12 @@ This project is intended for personal learning, interview preparation, and consi
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
@@ -291,6 +294,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
