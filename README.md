@@ -80,6 +80,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
@@ -131,6 +132,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
