@@ -67,6 +67,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
