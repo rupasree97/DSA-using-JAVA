@@ -12,6 +12,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
