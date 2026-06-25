@@ -83,6 +83,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2956-find-common-elements-between-two-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
@@ -209,6 +210,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -230,6 +232,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
 |  |
@@ -323,6 +326,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,9 +358,18 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
