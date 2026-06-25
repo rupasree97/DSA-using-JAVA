@@ -71,6 +71,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -127,6 +128,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0680-valid-palindrome-ii) |
@@ -229,6 +231,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -339,6 +342,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
