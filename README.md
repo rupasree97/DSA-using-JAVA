@@ -68,6 +68,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
@@ -184,6 +185,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0238-product-of-array-except-self) |
@@ -220,6 +222,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -231,6 +234,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -362,6 +366,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
