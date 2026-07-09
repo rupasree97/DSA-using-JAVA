@@ -24,6 +24,7 @@ class Solution {
         for(int i = 0; i<(len-k-1); i++)
         {
             tail = tail.next;
+            
         }
         count.next = head;
         head = tail.next;
