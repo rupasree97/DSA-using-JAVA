@@ -23,12 +23,13 @@ class Solution {
         ListNode tail = head;
         for(int i = 0; i<(len-k-1); i++)
         {
-            tail = tail.next;
-            
+            tail =  tail.next;
+
         }
         count.next = head;
         head = tail.next;
         tail.next = null;
         return head;
+        
     }
 }
