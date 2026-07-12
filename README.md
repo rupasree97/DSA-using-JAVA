@@ -81,6 +81,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -203,6 +204,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1306-jump-game-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1528-shuffle-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -233,6 +235,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
