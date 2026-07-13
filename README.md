@@ -201,6 +201,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1306-jump-game-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1306-jump-game-iii) |
@@ -258,6 +259,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -270,6 +272,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0155-min-stack](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
