@@ -126,6 +126,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
