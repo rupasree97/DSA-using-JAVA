@@ -185,6 +185,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
@@ -257,6 +258,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
@@ -334,6 +336,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
 ## Trie
 |  |
