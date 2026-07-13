@@ -385,6 +385,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
 |  |
