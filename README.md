@@ -210,6 +210,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -272,6 +273,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0657-robot-return-to-origin](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -353,6 +355,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
 ## Trie
 |  |
