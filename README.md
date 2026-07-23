@@ -208,6 +208,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
@@ -272,6 +273,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
@@ -359,6 +361,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
 ## Trie
