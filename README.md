@@ -154,6 +154,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -280,6 +281,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
