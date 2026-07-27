@@ -23,6 +23,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0263-ugly-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -217,6 +218,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -256,6 +258,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
