@@ -22,6 +22,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0206-reverse-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
