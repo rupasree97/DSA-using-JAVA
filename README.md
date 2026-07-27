@@ -13,6 +13,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0172-factorial-trailing-zeroes) |
@@ -140,6 +141,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
@@ -170,6 +172,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0397-integer-replacement) |
@@ -284,6 +287,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
