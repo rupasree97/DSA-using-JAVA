@@ -27,6 +27,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -299,6 +300,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -349,6 +351,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
