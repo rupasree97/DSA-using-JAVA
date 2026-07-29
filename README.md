@@ -183,6 +183,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0397-integer-replacement) |
@@ -381,6 +382,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0119-pascals-triangle-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0397-integer-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
