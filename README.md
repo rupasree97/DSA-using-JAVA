@@ -182,6 +182,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
