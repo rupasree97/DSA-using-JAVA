@@ -6,7 +6,7 @@ class Solution {
 
     }
     
-        private int binarysearch(int[] nums, int target)
+        public int binarysearch(int[] nums, int target)
         {
                 int n = nums.length;
         int left = 0;
