@@ -165,6 +165,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0657-robot-return-to-origin](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
