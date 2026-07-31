@@ -29,6 +29,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
@@ -196,6 +197,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Rolling Hash
 |  |
