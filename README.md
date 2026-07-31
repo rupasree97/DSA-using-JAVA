@@ -40,6 +40,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3908-valid-digit-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3908-valid-digit-number) |
 ## Binary Search
 |  |
 | ------- |
