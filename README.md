@@ -97,6 +97,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0771-jewels-and-stones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -166,6 +167,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0680-valid-palindrome-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1108-defanging-an-ip-address) |
