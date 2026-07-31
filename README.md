@@ -186,6 +186,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0338-counting-bits) |
@@ -465,6 +466,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
