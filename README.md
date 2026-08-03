@@ -204,6 +204,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0476-number-complement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1310-xor-queries-of-a-subarray](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -259,6 +260,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1306-jump-game-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -439,6 +441,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0238-product-of-array-except-self](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
