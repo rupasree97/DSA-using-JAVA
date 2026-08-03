@@ -195,6 +195,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0191-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
@@ -247,6 +248,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0209-minimum-size-subarray-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
