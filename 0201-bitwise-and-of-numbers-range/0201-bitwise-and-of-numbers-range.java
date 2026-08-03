@@ -8,5 +8,11 @@ class Solution {
             count++;
         }
         return (left<<count);
+
+    //     1 to n
+    //     set bits
+
+    // add all set bits from one to n
+    // n = 1e9
     }
 }
