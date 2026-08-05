@@ -16,6 +16,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
@@ -195,6 +196,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0190-reverse-bits) |
@@ -518,4 +520,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
