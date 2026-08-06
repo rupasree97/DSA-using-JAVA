@@ -28,6 +28,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
+| [0477-total-hamming-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -214,6 +215,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0397-integer-replacement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -264,6 +266,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0260-single-number-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0477-total-hamming-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
