@@ -26,6 +26,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -167,6 +168,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0383-ransom-note](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -210,6 +212,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
