@@ -3,13 +3,13 @@ class Solution {
         
         if(num == 0)
         return "0";
-         char[] h = "0123456789abcdef".toCharArray();
+         String h = "0123456789abcdef";
          StringBuilder res = new StringBuilder();
             while(num!=0)
             {
               int   temp = num &15;
                 
-                 res.append(h[temp]);
+                 res.append(h.charAt(temp));
                  num = num>>>4;
 
 
