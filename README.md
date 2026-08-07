@@ -223,6 +223,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0693-binary-number-with-alternating-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0868-binary-gap) |
 | [1310-xor-queries-of-a-subarray](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
