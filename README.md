@@ -277,6 +277,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0260-single-number-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
@@ -330,6 +331,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0645-set-mismatch) |
