@@ -23,6 +23,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
@@ -55,6 +56,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -98,6 +100,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
@@ -214,6 +217,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0201-bitwise-and-of-numbers-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0371-sum-of-two-integers) |
@@ -278,6 +282,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0238-product-of-array-except-self](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
@@ -337,6 +342,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0451-sort-characters-by-frequency) |
