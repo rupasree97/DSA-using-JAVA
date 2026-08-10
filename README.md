@@ -304,6 +304,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
 | [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -384,6 +385,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -479,6 +481,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1914-cyclically-rotating-a-grid) |
 ## Trie
 |  |
 | ------- |
