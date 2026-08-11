@@ -35,6 +35,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2317-maximum-xor-after-operations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2317-maximum-xor-after-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
@@ -241,6 +242,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1720-decode-xored-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2317-maximum-xor-after-operations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2317-maximum-xor-after-operations) |
 | [2595-number-of-even-and-odd-bits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -321,6 +323,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2317-maximum-xor-after-operations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2317-maximum-xor-after-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
