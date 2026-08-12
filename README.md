@@ -126,6 +126,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3731-find-missing-elements) |
@@ -337,6 +338,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -544,6 +546,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
