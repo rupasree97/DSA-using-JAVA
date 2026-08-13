@@ -608,4 +608,16 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0202-happy-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
