@@ -620,4 +620,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
