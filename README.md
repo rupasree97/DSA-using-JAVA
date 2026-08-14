@@ -247,6 +247,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1720-decode-xored-array) |
+| [1734-decode-xored-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1734-decode-xored-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2317-maximum-xor-after-operations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2317-maximum-xor-after-operations) |
@@ -327,6 +328,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
 | [1720-decode-xored-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
+| [1734-decode-xored-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1914-cyclically-rotating-a-grid) |
