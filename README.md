@@ -618,14 +618,17 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Newton's Method
 |  |
 | ------- |
