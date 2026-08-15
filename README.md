@@ -154,6 +154,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
@@ -183,6 +184,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
