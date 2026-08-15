@@ -60,6 +60,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -104,6 +105,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0219-contains-duplicate-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
@@ -152,6 +154,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0832-flipping-an-image) |
@@ -302,6 +305,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0283-move-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
@@ -368,6 +372,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0169-majority-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0451-sort-characters-by-frequency) |
