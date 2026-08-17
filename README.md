@@ -330,6 +330,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1528-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1652-defuse-the-bomb) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
@@ -564,6 +565,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0992-subarrays-with-k-different-integers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1652-defuse-the-bomb) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
