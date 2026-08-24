@@ -9,11 +9,11 @@ class Solution {
            res[1] = false;
            res[2] = true;
             int count = 0;
-        for(int i = 2;  i<n; i++)
+        for(int i = 2;  i*i<n; i++)
         {
              if(res[i])
              {
-                    for(int j = i*2; j<n; j+=i)
+                    for(int j = i*i; j<n; j+=i)
                     {
                        
                             res[j] = false;
@@ -26,9 +26,9 @@ class Solution {
              }
         
 
-        for(int i = 2; i<n; i++)
+        for(boolean r :res)
         {
-            if(res[i])
+            if(r)
             count++;
         }
         return count;
