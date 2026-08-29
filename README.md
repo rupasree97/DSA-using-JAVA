@@ -33,6 +33,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0628-maximum-product-of-three-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0866-prime-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0866-prime-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
@@ -206,6 +207,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0709-to-lower-case](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -680,9 +682,11 @@ This project is intended for personal learning, interview preparation, and consi
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
