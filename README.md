@@ -45,6 +45,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2614-prime-in-diagonal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -368,6 +369,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3115-maximum-prime-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -469,6 +471,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -498,6 +501,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3115-maximum-prime-difference) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
