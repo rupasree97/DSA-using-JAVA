@@ -45,6 +45,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2614-prime-in-diagonal) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
@@ -365,6 +366,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2553-separate-the-digits-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2614-prime-in-diagonal) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -507,6 +509,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2614-prime-in-diagonal) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -690,10 +693,12 @@ This project is intended for personal learning, interview preparation, and consi
 | [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
