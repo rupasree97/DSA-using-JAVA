@@ -37,6 +37,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1344-angle-between-hands-of-a-clock](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
@@ -102,6 +103,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0234-palindrome-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -509,6 +511,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0204-count-primes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0866-prime-palindrome) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
