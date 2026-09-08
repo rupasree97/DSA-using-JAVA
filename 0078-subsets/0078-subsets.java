@@ -1,17 +1,21 @@
 class Solution {
+    private void subsetgen(int nums[],int i, List<List<Integer>> l, ArrayList<Integer> s)
+    {
+    
+        if (i == nums.length) {
+    l.add(new ArrayList<>(s));
+    return;
+}
+        s.add(nums[i]);
+       
+        subsetgen(nums,i+1,l,s);
+
+        s.remove(s.size()-1);
+        subsetgen(nums,i+1,l,s); 
+    }
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>>  l = new   ArrayList<>();
-         int n = nums.length;
-        for(int i = 0; i<(1<<n); i++)
-        {
-            ArrayList<Integer> r = new ArrayList<>();
-            for(int j = 0; j<n;j++)
-            {
-                 if((i&(1<<j)) > 0)
-                 r.add(nums[j]);
-            }
-            l.add(r);
-        }
-       return l; 
+        List<List<Integer>> l = new ArrayList<>();
+        subsetgen(nums,0,l,new ArrayList<>());
+        return l;
     }
 }
