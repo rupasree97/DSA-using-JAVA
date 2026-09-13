@@ -1,8 +1,7 @@
 class Solution {
     private int gcd(int a,int b)
     {
-        int a1 = a;
-        int b1 = b;
+      
         while(b!=0)
         {
          int temp = a%b;
