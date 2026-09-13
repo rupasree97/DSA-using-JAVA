@@ -41,6 +41,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2317-maximum-xor-after-operations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2317-maximum-xor-after-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -364,6 +365,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [2126-destroying-asteroids](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2317-maximum-xor-after-operations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2317-maximum-xor-after-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -471,6 +473,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0682-baseball-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -514,6 +517,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2523-closest-prime-numbers-in-range) |
@@ -711,10 +715,15 @@ This project is intended for personal learning, interview preparation, and consi
 | [1071-greatest-common-divisor-of-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Union-Find
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
