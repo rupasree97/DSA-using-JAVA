@@ -190,6 +190,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0006-zigzag-conversion](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
@@ -530,6 +531,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
@@ -660,6 +662,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0090-subsets-ii) |
@@ -726,4 +729,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
