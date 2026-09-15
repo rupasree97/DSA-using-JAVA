@@ -1,25 +1,24 @@
 class Solution {
+    Set<List<Integer>> h = new HashSet<>();
+     private void subsetgen(int nums[],int i,  ArrayList<Integer> s)
+    {
+    
+        Arrays.sort(nums);
+        if (i == nums.length) {
+    h.add(new ArrayList<>(s));
+    return;
+}
+
+        s.add(nums[i]);
+       
+        subsetgen(nums,i+1,s);
+
+        s.remove(s.size()-1);
+        subsetgen(nums,i+1,s); 
+    }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-
-        int n = nums.length;
-        Set<List<Integer>> set = new HashSet<>();
-
-        for (int i= 0; i< (1 << n); i++) {
-
-            List<Integer> subset = new ArrayList<>();
-
-            for (int j = 0; j < n; j++) {
-
-                if ((i & (1 << j)) != 0) {
-                    subset.add(nums[j]);
-                }
-            }
-
-        
-            Collections.sort(subset);
-            set.add(subset);
-        }
-
-        return new ArrayList<>(set);
+       
+        subsetgen(nums,0,new ArrayList<>());
+        return new ArrayList<>(h);
     }
 }
