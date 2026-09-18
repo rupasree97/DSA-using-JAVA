@@ -105,6 +105,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -385,6 +387,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3115-maximum-prime-difference](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -641,6 +644,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1291-sequential-digits](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
 |  |
