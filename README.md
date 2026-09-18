@@ -38,6 +38,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
@@ -105,6 +106,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0326-power-of-three](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -359,6 +361,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1732-find-the-highest-altitude](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1734-decode-xored-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1920-build-array-from-permutation) |
@@ -459,6 +462,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1260-shift-2d-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1706-where-will-the-ball-fall) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1920-build-array-from-permutation) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -602,6 +606,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
