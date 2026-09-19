@@ -40,6 +40,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1998-gcd-sort-of-an-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -107,6 +108,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0342-power-of-four](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0342-power-of-four) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
