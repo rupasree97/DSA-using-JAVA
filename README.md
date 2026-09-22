@@ -680,6 +680,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0090-subsets-ii) |
@@ -754,4 +755,5 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
