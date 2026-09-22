@@ -307,6 +307,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0056-merge-intervals) |
@@ -678,6 +679,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0090-subsets-ii) |
@@ -748,4 +750,8 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
