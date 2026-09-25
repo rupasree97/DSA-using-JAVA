@@ -101,6 +101,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0231-power-of-two) |
@@ -200,6 +201,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
@@ -493,6 +495,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -548,6 +551,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0070-climbing-stairs) |
