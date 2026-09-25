@@ -99,6 +99,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0206-reverse-linked-list) |
@@ -194,6 +195,7 @@ This project is intended for personal learning, interview preparation, and consi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
@@ -544,6 +546,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0055-jump-game) |
