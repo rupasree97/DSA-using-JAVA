@@ -116,6 +116,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0141-linked-list-cycle) |
@@ -308,6 +309,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
@@ -576,6 +578,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
@@ -685,6 +688,7 @@ This project is intended for personal learning, interview preparation, and consi
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0052-n-queens-ii) |
@@ -761,6 +765,11 @@ This project is intended for personal learning, interview preparation, and consi
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
