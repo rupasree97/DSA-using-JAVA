@@ -206,6 +206,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0214-shortest-palindrome) |
@@ -320,6 +321,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0059-spiral-matrix-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0119-pascals-triangle-ii) |
@@ -584,6 +586,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0054-spiral-matrix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0832-flipping-an-image) |
@@ -614,6 +617,7 @@ This project is intended for personal learning, interview preparation, and consi
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -695,6 +699,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rupasree97/DSA-using-JAVA/tree/master/1863-sum-of-all-subset-xor-totals) |
