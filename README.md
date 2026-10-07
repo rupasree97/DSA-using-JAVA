@@ -313,6 +313,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0027-remove-element](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0049-group-anagrams) |
@@ -698,6 +699,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rupasree97/DSA-using-JAVA/tree/master/0052-n-queens-ii) |
