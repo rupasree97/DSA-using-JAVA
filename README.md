@@ -249,6 +249,7 @@ This project is intended for personal learning, interview preparation, and consi
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/rupasree97/DSA-using-JAVA/tree/master/3889-mirror-frequency-distance) |
 ## Bit Manipulation
 |  |
